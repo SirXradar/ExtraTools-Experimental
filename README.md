@@ -92,3 +92,15 @@ options:
 ## License
 
 This project is licensed under the **GNU General Public License v3.0** — see [LICENSE](LICENSE) for details.
+
+---
+
+## ❤️ Support the Project
+
+If you find this plugin useful, please consider:
+
+- ⭐ **Starring** this repository on GitHub
+- 💬 Joining our [Telegram](https://t.me/SeniorIDE)
+- 🧪 Reporting bugs or feature requests via [GitHub Issues](https://github.com/SirXradar/ExtraTools-Experimental/issues)
+
+Your support helps keep development going! Thank you! 🙏
