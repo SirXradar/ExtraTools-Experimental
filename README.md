@@ -6,9 +6,6 @@
 <a href="https://github.com/SirXradar/ExtraTools-Experimental/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/SirXradar/ExtraTools-Experimental?label=License&style=for-the-badge&color=blue)">
 </a>
-<a href="https://www.spigotmc.org/resources/extratools-experimental.12345/">
-  <img src="https://img.shields.io/badge/SpigotMC-Download-ffc800?style=for-the-badge&logo=java)" alt="SpigotMC">
-</a>
 
 > **ExtraTools** is a [Slimefun4](https://blob.build/project/Slimefun4/Experimental) addon that adds useful tools and machines to enhance your gameplay. This fork has been updated for **Slimefun4 Experimental (4.9-UNOFFICIAL)** by **SirXradar**.
 
@@ -49,15 +46,6 @@
 2. Place it in your server's **`/plugins/`** folder.
 3. Ensure **Slimefun4 Experimental** is also installed.
 4. Start or restart your server.
-
----
-
-## Usage
-
-Place machines in the world, connect to power, and load with input items. The **Hammer** is used as a tool — right-click to pulverize blocks.
-
-### Pulverizer (Example)
-![Pulverizer Preview](https://via.placeholder.com/150x150.png/333333/ffffff?text=Pulverizer)
 
 ---
 
